@@ -1,5 +1,4 @@
 #NESSE EXERCICIO DESENVOLVI UM PROGRAMA CAPAZ DE DIZER SE UM NÚMERO É OU NÃO UM NÚMERO PRIMO.
-from os import readlink
 contador=0
 nu=int(input('Digite um número: '))
 for d in range(1, nu + 1):
